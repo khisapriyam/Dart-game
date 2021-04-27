@@ -1,8 +1,9 @@
+python==3.8.3
 numpy
 streamlit
 sklearn
 scikit-image
-skimage==0.16.2
+skimage==0.0
 pickle
 PIL
 
