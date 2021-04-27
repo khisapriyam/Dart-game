@@ -27,4 +27,4 @@ if uploaded_file is not None:
     st.write(f'PREDICTED OUTPUT: {y_out}')
     q = model.predict_pro(flat_data)
     for index,item in enumerate(CATEGORIES):
-      st.write(f'{item} : {q[0][index]*100}')#prediction
+      st.write(f'{item} : {q[0][index]*100}')
