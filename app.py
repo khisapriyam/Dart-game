@@ -1,4 +1,3 @@
-#It saves in .py format
 import streamlit as st
 import numpy as np
 from skimage.io import imread #iuse pip install scikit-image if skimage does not work
