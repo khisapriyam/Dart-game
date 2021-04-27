@@ -28,3 +28,4 @@ if uploaded_file is not None:
     q = model.predict_pro(flat_data)
     for index,item in enumerate(CATEGORIES):
       st.write(f'{item} : {q[0][index]*100}')
+      ##not working in heroku
