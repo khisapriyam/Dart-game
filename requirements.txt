@@ -2,6 +2,6 @@ numpy
 streamlit
 sklearn
 #skimage
-pickle
-PIL
+#pickle
+#PIL
 
