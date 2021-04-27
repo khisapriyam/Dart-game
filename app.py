@@ -1,3 +1,4 @@
+#It saves in .py format
 import streamlit as st
 import numpy as np
 from skimage.io import imread
