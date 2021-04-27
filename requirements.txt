@@ -1,6 +1,7 @@
 numpy
 streamlit
 sklearn
+scikit-image
 skimage
 pickle
 PIL
