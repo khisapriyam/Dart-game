@@ -5,7 +5,6 @@ from skimage.io import imread #iuse pip install scikit-image if skimage does not
 from skimage.transform import resize
 import pickle
 from PIL import image
-import matplotlib.pyplot as plt
 st.title('Image Classifier Using Machine Learning')
 st.text('Upload the Image')
 
