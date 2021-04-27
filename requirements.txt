@@ -2,7 +2,7 @@ numpy
 streamlit
 sklearn
 scikit-image
-skimage
+skimage==0.16.2
 pickle
 PIL
 
